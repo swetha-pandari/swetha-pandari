@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on building my own portfolio using react and a game application using vue/angular
+- 🌱 I’m currently learning: Next.js
+- 💬 Ask me about: Web Development/User Interfaces/Software Development
+- 📫 How to reach me: inboxtoswetha@gmail.com
 
 <!--
 **swetha-pandari/swetha-pandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
